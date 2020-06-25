@@ -1,0 +1,7 @@
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\bin\Debug\BLL.dll
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\bin\Debug\BLL.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\bin\Debug\DAL.dll
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\bin\Debug\DAL.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\obj\Debug\BLL.dll
+c:\Users\User\documents\visual studio 2013\Projects\Sdaproj\BLL\obj\Debug\BLL.pdb

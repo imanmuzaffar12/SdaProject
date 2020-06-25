@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\Sdaproj.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\Sdaproj.exe
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\Sdaproj.pdb
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\BLL.dll
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\DAL.dll
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\BLL.pdb
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\bin\Debug\DAL.pdb
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.exe
+c:\users\user\documents\visual studio 2013\Projects\Sdaproj\Sdaproj\obj\Debug\Sdaproj.pdb
